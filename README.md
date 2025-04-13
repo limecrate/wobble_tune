@@ -1,4 +1,4 @@
-# wobbletune
+# Wobble Tune
 
 Online Tuner
 
